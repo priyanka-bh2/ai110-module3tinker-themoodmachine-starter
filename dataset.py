@@ -89,6 +89,36 @@ TRUE_LABELS = [
 #
 # SAMPLE_POSTS.append("Lowkey stressed but kind of proud of myself")
 # TRUE_LABELS.append("mixed")
+
+SAMPLE_POSTS.append("My boss threw a red flag at my proposal and now I’m dreading the next meeting.")
+TRUE_LABELS.append("negative")
+
+SAMPLE_POSTS.append("Why does everyone act like two hours is enough time to finish this project?")
+TRUE_LABELS.append("negative")
+
+SAMPLE_POSTS.append("Obviously I’m the perfect person to be running on zero sleep and three coffees.")
+TRUE_LABELS.append("negative")
+
+SAMPLE_POSTS.append("The group chat was so chaotic today, it’s giving main character energy but I’m just here for the drama.")
+TRUE_LABELS.append("neutral")
+
+SAMPLE_POSTS.append("I hated leaving that job, but honestly, I’m already proud of what I accomplished there.")
+TRUE_LABELS.append("mixed")
+
+SAMPLE_POSTS.append("😅😂💀")
+TRUE_LABELS.append("neutral")
+
+SAMPLE_POSTS.append("Got ghosted by my best friend after I literally waited an hour for them. Not cool.")
+TRUE_LABELS.append("negative")
+
+SAMPLE_POSTS.append("My plant died and somehow I’m the only one who’s crying about it, but like, hey, it had a good run.")
+TRUE_LABELS.append("mixed")
+
+SAMPLE_POSTS.append("Finally submitted the final and my brain is officially out of service. I feel so done and so free.")
+TRUE_LABELS.append("positive")
+
+SAMPLE_POSTS.append("The coffee shop was loud, the playlist was fine, and I managed to focus for, like, twenty minutes.")
+TRUE_LABELS.append("neutral")
 #
 # Remember to keep them aligned:
 #   len(SAMPLE_POSTS) == len(TRUE_LABELS)
